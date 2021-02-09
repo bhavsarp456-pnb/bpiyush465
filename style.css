@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Sacramento, Arial, sans-serif;
+  background-color: DodgerBlue ;
+}
+.Piyush_Profile {
+  height: 200px;
+}
+h1 {
+    width: auto;
+    margin: 50px auto 0 auto ;
+    font-family: Sacramento, Arial, sans-serif;
+    font-size: 5.625rem;
+    color: #4B0082;
+    line-height: 2;
+}
+.h1_para {
+  font-size: 150%;
+  font-weight: normal;
+  line-height: 2;
+}
+h2 {
+  color: #4B0082;
+}
+hr {
+  border-color: #0094FFFF;
+  border-width:5px;
+	border-style: dotted none none none;
+	width: 5%;
+	height: auto;
+}
+.profile {
+  padding-left: 50px;
+  display: inline-block;
+  position: relative;
+  bottom: 130px;
+}
+.skills {
+  padding-left: 20px;
+}
+.para_skills{
+  font-family: Arial;
+}
+.Table_skills {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: monospace;
+
+}
+.top_container {
+  background-color: DodgerBlue;
+  position:relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+.bottom-container {
+  text-align: justify;
+}
+.body_hobbies {
+  text-align: justify;
+}
+.my_hobbies {
+  margin-left: 50px;
+  text-align: inherit;
+  color: #4B0082;
+}
+.hobbies_list{
+  text-align: center;
+  font-family: Montserrat;
+}
+p {
+  font-family: Ubuntu;
+}
+.a_pro {
+  text-decoration: underline;
+}
+
+.para_skills {
+  text-align: center;
+  position: relative;
+  left: 200px;
+}
+.coder_png {
+  height: 200px;
+}
+
+.bottom_cloud {
+  position: absolute;
+
+}
+.top_cloud {
+  position: relative;
+  left: 200px;
+}
+
+.whatsapp_icon{
+  background-color: skyblue;
+}
+
+.bottom-container {
+  text-align: center;
+}
+.get_in_touch {
+  font-family: monospace;
+
+}
+.contact_me {
+  font-family: Montserrat;
+
+}
