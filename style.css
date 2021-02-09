@@ -2,7 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: Sacramento, Arial, sans-serif;
-  background-color: skyblue;
+  background-color: DodgerBlue;
 }
 .Piyush_Profile {
   height: 200px;
@@ -11,10 +11,18 @@ h1 {
     width: auto;
     margin: 0 auto;
     font-family: Sacramento, Arial, sans-serif;
+    font-size: 5.625rem;
+    color: #4B0082;
+    line-height: 2;
     font-size: 100px;
 }
 .h1_para {
   font-size: 150%;
+  font-weight: normal;
+  line-height: 2;
+}
+h2 {
+  color: #4B0082;
 }
 hr {
   border-color: #0094FFFF;
@@ -42,7 +50,7 @@ hr {
 
 }
 .top_container {
-  background-color: skyblue;
+  background-color: DodgerBlue;
   position:relative;
   padding-top: 100px;
   padding-bottom: 50px;
@@ -87,7 +95,8 @@ p {
 }
 
 .whatsapp_icon{
-  background-color: skyblue;
+  background-color: DodgerBlue;
+  
 }
 
 .bottom-container {
