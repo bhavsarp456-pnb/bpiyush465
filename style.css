@@ -35,8 +35,10 @@ hr {
   padding-left: 50px;
   display: inline-block;
   position: relative;
+  padding-top:  140px;
   bottom: 130px;
 }
+
 .skills {
   padding-left: 20px;
 }
@@ -96,9 +98,12 @@ p {
 
 .whatsapp_icon{
   background-color: DodgerBlue;
-  
-}
 
+}
+.middle-container
+{
+  text-align: center;
+}
 .bottom-container {
   text-align: center;
 }
